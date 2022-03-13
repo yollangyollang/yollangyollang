@@ -23,8 +23,10 @@
   <img src="https://img.shields.io/badge/Figma-red?style=flat&logo=Figma&logoColor=ffffff"/>
   <img src="https://img.shields.io/badge/Java-yellow?style=flat&logo=Java&logoColor=ffffff"/>
   <img src="https://img.shields.io/badge/Oracle-red?style=flat&logo=Oracle&logoColor=ffffff"/>
-
 <div>
+<h4 align="center">🔥 Blog 🔥</h4>
+  
+  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://zzsza.github.io/)
 <br>
 <br>
 <br>
@@ -33,7 +35,11 @@
 <br>
 <div align="center">
   
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yollangyollang)](https://solved.ac/yollangyollang/)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yollangyollang&layout=compact)](https://github.com/yollangyollang/github-readme-stats)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yollangyollang)](https://solved.ac/yollangyollang/)
+
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yollangyollang&layout=compact)](https://github.com/yollangyollang/github-readme-stats)
 
 </div>
 
