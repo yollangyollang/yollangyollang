@@ -4,9 +4,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=50&section=header&text=Hello%20World.%20Hello%20World.&fontColor=1876fb&fontSize=89&fontAlign=50&fontAlignY=90)
 
-
-
-### ✅ To Do
+<h3 align="center">✅ To Do</h3>
 - HTML, CSS
 - Advanced CSS and Sass
 - JavaScript
