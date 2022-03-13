@@ -12,20 +12,26 @@
   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yollangyollang)](https://solved.ac/yollangyollang/)
   
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yollangyollang&layout=compact)](https://github.com/yollangyollang/github-readme-stats)
+
 </div>
 <br>
 <br>
-<h3 align="center">✅ To Do</h3>
+<h2 align="center">☑️ To Do </h2>
 <div align="center">
-- HTML, CSS<br>
-- Advanced CSS and Sass<br>
-- JavaScript<br>
-- Java<br>
-- Oracle SQL<br>
-- TypeScript<br>
-- React, Node.Js, Redux, Next.js<br>
-- Figma<br>
-- Maya<br>
+  <img src="https://img.shields.io/badge/HTML5-red?style=flat&logo=HTML5&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/CSS3-blue?style=flat&logo=CSS3&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/Sass-ff69b4?style=flat&logo=Sass&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=JavaScript&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/TypeScript-blue?style=flat&logo=TypeScript&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/React-61dafb?style=flat&logo=React&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/Node.js-green?style=flat&logo=Node.js&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/Redux-blueviolet?style=flat&logo=Redux&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/Figma-red?style=flat&logo=Figma&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/Java-yellow?style=flat&logo=Java&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/Oracle-red?style=flat&logo=Oracle&logoColor=ffffff"/>
+
 <div>
 <br>
 <br>
@@ -33,5 +39,3 @@
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yollangyollang)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yollangyollang&layout=compact)](https://github.com/yollangyollang/github-readme-stats)
