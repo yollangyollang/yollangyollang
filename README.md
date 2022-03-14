@@ -26,7 +26,7 @@
 <div>
 <h4 align="center">🔥 Blog 🔥</h4>
   
-  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://zzsza.github.io/)
+  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://yollangyollang.github.io/)](https://yollangyollang.github.io/)
 <br>
 <br>
 <br>
